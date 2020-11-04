@@ -7,5 +7,7 @@ CSCI 353 Group Project on ML prediction
 
 # Contributors
 Daniel Rozenzaft
+
 Yaroslava Shynkar
+
 Jonathan Kelaty
