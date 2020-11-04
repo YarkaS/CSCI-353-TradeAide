@@ -3,7 +3,7 @@ CSCI 353 Group Project on ML Stock Market Prediction
 
 # Files uploaded:
 ### Proposal
-### Project update 1
+### Project milestone 1 presentation
 
 # Contributors
 Daniel Rozenzaft
