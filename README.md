@@ -50,8 +50,6 @@ The challenge in our problem lies in the unpredictability of the stock market. D
 
 ## Our Results
 
-- **SVM & Random Forests**
-
  Ticker                        | SVM                            | RF
 ------------------------------ |------------------------------- | ------------------------------
  AAPL                          | ![svm-tsla](/img/SVM-AAPL.png) | ![svm-tsla](/img/RF-AAPL.png)
