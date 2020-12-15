@@ -41,6 +41,8 @@ The challenge in our problem lies in the unpredictability of the stock market. D
     1. Average closing price of previous 5 days
     3. Average sentiment of previous 5 days
     2. Volatility: ratio of previous two days' adjusted close prices
+  - In general, SVM predictions presented a smoother approximation of stock values, while RF was more sensitive to day-to-day fluctuations of stock price, which was more representative of real-world behavior.
+  - Preferred RF model, but features were lackluster for prediction. More sophisticated feature set would be a necessity for future work to bring performance up to par for real-world deployment.
 
 - **LSTM**
   - The **LSTM.ipynb** notebook contains a Long Short-Term Memory model with the NLP component (sentiment analysis) that tries to predict the adjusted close values of a given company.
