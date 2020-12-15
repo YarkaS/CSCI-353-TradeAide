@@ -1,4 +1,4 @@
-<img align="right" src="stonks.jpg" alt="stonks" width="350">
+<img align="right" src="img/stonks.jpg" alt="stonks" width="350">
 
 # TradeAide: Stock Market Prediction
 CSCI 353 Group Project on Machine Learning Stock Market Prediction
@@ -48,8 +48,7 @@ The challenge in our problem lies in the unpredictability of the stock market. D
   - The LSTM model was trained using continuous data. In the future, we hope to try to test the model using the binary data as the research suggests that we may get a better prediction by doing it.
   - Happy backtesting!
 
-## NLP Sentiment Analysis
-
-
-
 ## Our Results
+
+- **SVM & Random Forests**
+![svm-tsla](/img/SVM-TSLA.png)
