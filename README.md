@@ -3,6 +3,11 @@
 # TradeAide: Stock Market Prediction
 CSCI 353 Group Project on Machine Learning Stock Market Prediction
 
+## Authors
+- Daniel Rozenzaft
+- Yaroslava Shynkar
+- Jonathan Kelaty
+
 ## Our Goal
 For our final project, we will be using various machine learning algorithms to predict future stock prices. We will also be using reinforcement learning to predict the optimal times to buy and sell stock shares. We accomplished this by applying LSTM, SVM, RF, and Q-Learning to daily stock price data.
 
