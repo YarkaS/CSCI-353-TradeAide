@@ -52,8 +52,8 @@ The challenge in our problem lies in the unpredictability of the stock market. D
 
 - **SVM & Random Forests**
 
-                               | SVM                            | RF
+ Test                          | SVM                            | RF
 ------------------------------ |------------------------------- | ------------------------------
-AAPL                           | ![svm-tsla](/img/SVM-AAPL.png) | ![svm-tsla](/img/RF-AAPL.png)
-TSLA                           | ![svm-tsla](/img/SVM-TSLA.png) | ![svm-tsla](/img/RF-TSLA.png)
-JNJ                            | ![svm-tsla](/img/SVM-JNJ.png)  | ![svm-tsla](/img/RF-JNJ.png)
+ AAPL                          | ![svm-tsla](/img/SVM-AAPL.png) | ![svm-tsla](/img/RF-AAPL.png)
+ TSLA                          | ![svm-tsla](/img/SVM-TSLA.png) | ![svm-tsla](/img/RF-TSLA.png)
+ JNJ                           | ![svm-tsla](/img/SVM-JNJ.png)  | ![svm-tsla](/img/RF-JNJ.png)
