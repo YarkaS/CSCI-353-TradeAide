@@ -51,4 +51,7 @@ The challenge in our problem lies in the unpredictability of the stock market. D
 ## Our Results
 
 - **SVM & Random Forests**
-![svm-tsla](/img/SVM-TSLA.png)
+First Header  | Second Header
+------------- | -------------
+![svm-tsla](/img/SVM-TSLA.png)  | ![svm-tsla](/img/SVM-TSLA.png)
+![svm-tsla](/img/SVM-TSLA.png)  |  ![svm-tsla](/img/SVM-TSLA.png)
