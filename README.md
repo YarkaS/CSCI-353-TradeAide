@@ -1,6 +1,6 @@
 <img align="right" src="img/stonks.jpg" alt="stonks" width="350">
 
-# TradeAide: Stock Market Prediction
+# TradeAide: Automated Stock Market Prediction
 CSCI 353 Group Project on Machine Learning Stock Market Prediction
 
 ## Authors
