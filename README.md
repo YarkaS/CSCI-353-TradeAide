@@ -37,12 +37,12 @@ The challenge in our problem lies in the unpredictability of the stock market. D
 
 - **LSTM**
   - The **LSTM.ipynb** notebook contains a Long Short-Term Memory model with the NLP component (sentiment analysis) that tries to predict the adjusted close values of a given company.
-  - The model is trained over the period of 1000 days and keeps only the memory of 21 days in order to predict one day ahead. 
+  - The model is trained over the period of 1000 days and keeps only the memory of 21 days in order to predict one day ahead.
   - The optimal model for LSTM was highlighted in Nabipour M. "Predicting Stock Market Trends Using Machine Learning and Deep Learning Algorithms via Continuous and Binary Data; A comparative Analysis".
   - The LSTM model was trained using continuous data. In the future, we hope to try to test the model using the binary data as the research suggests that we may get a better prediction by doing it.
   -  in addition, the **ANN_predict_sentiment.ipynb** file was created to find the way to fill in the missing news sentiment data in the future. The model uses technical indicator Moving Average, as well as adj close, open, close.
-  
- - **SVM & Random Forests**
+
+- **SVM & Random Forests**
   - **SVM-RF.ipynb** notebook contains the implementations for SVM and RF.
   - Models are trained using 3 distinct features:
     1. Average closing price of previous 5 days
@@ -54,10 +54,10 @@ The challenge in our problem lies in the unpredictability of the stock market. D
 ## Results
 
  Ticker                        | SVM                            | RF
------------------------------- |------------------------------- | ------------------------------
+------------------------------ | ------------------------------ | ------------------------------
  AAPL                          | ![svm-aapl](/img/SVM-AAPL.png) | ![rf-aapl](/img/RF-AAPL.png)
  TSLA                          | ![svm-tsla](/img/SVM-TSLA.png) | ![rf-tsla](/img/RF-TSLA.png)
  JNJ                           | ![svm-jnj](/img/SVM-JNJ.png)   | ![rf-jnj](/img/RF-JNJ.png)
- 
+
 
 Happy backtesting!
