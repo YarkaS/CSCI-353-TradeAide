@@ -62,5 +62,20 @@ The challenge in our problem lies in the unpredictability of the stock market. D
  TSLA                          | ![svm-tsla](/img/SVM-TSLA.png) | ![rf-tsla](/img/RF-TSLA.png)
  JNJ                           | ![svm-jnj](/img/SVM-JNJ.png)   | ![rf-jnj](/img/RF-JNJ.png)
 
+## Our References
+
+L. Bing, K. C. C. Chan and C. Ou, "Public Sentiment Analysis in Twitter Data for Prediction of a Company's Stock Price Movements," 2014 IEEE 11th International Conference on e-Business Engineering, Guangzhou, 2014, pp. 232-239, doi: 10.1109/ICEBE.2014.47.
+
+Deng, Y., Feng, B., Kong,Y., Ren, Z., Dai, Q. (2016). Deep direct reinforcement learning for financial signal representation and trading. IEEE Transactions on Neural Networks and Learning Systems, 28, 1–12.
+
+Hiba Sadia, K., Sharma, A., Paul, A., Padhi, S., Sanyal, S. (2019). Stock Market Prediction Using Machine Learning Algorithms. International Journal of Engineering and Advanced Technology, 8(4), 25–31.
+
+Jeong, G. and Kim, H. (2018). Improving Financial Trading Decisions Using Deep Q-learning: Predicting the Number of Shares, Action Strategies, and Transfer Learning. Expert Systems with Applications, 117.
+
+M. Nabipour, P. Nayyeri, H. Jabani, S. S. and A. Mosavi, "Predicting Stock Market Trends Using Machine Learning and Deep Learning Algorithms Via Continuous and Binary Data; a Comparative Analysis," in IEEE Access, vol. 8, pp. 150199-150212, 2020. doi: 10.1109/ACCESS.2020.3015966.
+
+Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (2nd ed.). Cambridge, Massachusetts: MIT Press.
+
+Wei, D., "Prediction of Stock Price Based on LSTM Neural Network," 2019 International Conference on Artificial Intelligence and Advanced Manufacturing (AIAM), Dublin, Ireland, 2019, pp. 544-547, doi: 10.1109/AIAM48774.2019.00113.
 
 ## Happy backtesting!
