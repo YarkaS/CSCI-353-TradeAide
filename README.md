@@ -46,8 +46,11 @@ The challenge in our problem lies in the unpredictability of the stock market. D
 
 - **LSTM**
   - The **LSTM.ipynb** notebook contains a Long Short-Term Memory model with the NLP component (sentiment analysis) that tries to predict the adjusted close values of a given company.
+  - The model is trained over the period of 1000 days and keeps only the memory of 21 days in order to predict one day ahead. 
   - The optimal model for LSTM was highlighted in Nabipour M. "Predicting Stock Market Trends Using Machine Learning and Deep Learning Algorithms via Continuous and Binary Data; A comparative Analysis".
   - The LSTM model was trained using continuous data. In the future, we hope to try to test the model using the binary data as the research suggests that we may get a better prediction by doing it.
+  -  in addition, the ANN_predict_sentiment.ipynb file was created to find the way to fill in the missing news sentiment data in the future. The model uses technical indicator Moving Average, as well adj close, open, close.
+  
   - Happy backtesting!
 
 ## Our Results
