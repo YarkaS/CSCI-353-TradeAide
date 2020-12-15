@@ -1,13 +1,13 @@
 # CSCI-353-TradeAide
 CSCI 353 Group Project on ML Stock Market Prediction
 
-#Our Goal
+### Our Goal
 For our final project, we will be using various machine learning algorithms to predict the optimal times (days) to buy and sell stock shares. We applied LSTM, SVM, RF, and Q-Learning (RL) to daily stock price data. 
 
-#Our Challenge
+### Our Challenge
 The challenge in our problem lies in the unpredictability of the stock market. Due to the complex, highly volatile nature of the market, many existing models fail to take into account all of the variables that affect price movements, and thus struggle to adapt to changing market conditions. Massive representative samples — high frequency trading data collected over long periods of time — create very large state spaces.
 
-#About the files
+### About the files
 
 To run the Reinforcement Learning portion (Daniel):
 
