@@ -3,12 +3,12 @@
 # TradeAide: Automated Stock Market Prediction
 CSCI 353 Group Project on Machine Learning Stock Market Prediction
 
-## Authors
+## Our Authors
 - Daniel Rozenzaft
 - Yaroslava Shynkar
 - Jonathan Kelaty
 
-## Video
+## Our Video
 https://www.youtube.com/watch?v=1idXFiKJQ_0&feature=youtu.be
 
 ## Our Goal
