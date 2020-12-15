@@ -54,7 +54,7 @@ The challenge in our problem lies in the unpredictability of the stock market. D
   - In general, SVM predictions presented a smoother approximation of stock values, while RF was more sensitive to day-to-day fluctuations of stock price, which was more representative of real-world behavior.
   - Preferred RF model, but features were lackluster for prediction. More sophisticated feature set would be a necessity for future work to bring performance up to par for real-world deployment.
 
-## Results
+## Our Results
 
  Ticker                        | SVM                            | RF
 ------------------------------ | ------------------------------ | ------------------------------
@@ -63,4 +63,4 @@ The challenge in our problem lies in the unpredictability of the stock market. D
  JNJ                           | ![svm-jnj](/img/SVM-JNJ.png)   | ![rf-jnj](/img/RF-JNJ.png)
 
 
-Happy backtesting!
+## Happy backtesting!
